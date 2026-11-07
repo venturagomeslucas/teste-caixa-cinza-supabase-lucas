@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34527868/README.md)
 # Introdução
 
-Este repositório documenta a atividade individual de **testes caixa cinza em uma API de autenticação**, realizada com **Supabase** (ambiente de autenticação), **Postman Desktop** (execução dos testes) e **GitHub** (documentação).
+Este repositório documenta a atividade individual de testes caixa cinza em uma API de autenticação, realizada com Supabase (ambiente de autenticação), Postman Desktop (execução dos testes) e **GitHub** (documentação).
 
 - **Aluno:** Lucas Gomes
 - **Data de realização:** 07/11/2026
