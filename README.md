@@ -3,7 +3,7 @@
 
 Este repositório documenta a atividade individual de testes caixa cinza em uma API de autenticação, realizada com Supabase (ambiente de autenticação), Postman Desktop (execução dos testes) e **GitHub** (documentação).
 
-- **Aluno:** Lucas Gomes
+- **Aluno:** Lucas Gomes RA: 252280
 - **Data de realização:** 07/11/2026
 - **Endpoint testado:** `POST /auth/v1/token?grant_type=password`
 
